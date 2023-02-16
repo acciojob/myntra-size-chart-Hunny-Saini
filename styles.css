@@ -17,6 +17,10 @@ thead{
 	background-color: #C0504D;
 }
 
+td{
+	text-align: right;
+}
+
 .row1{
 	background-color: #DA9694;
 	color:white;
@@ -30,3 +34,6 @@ thead{
 	color: black;
 }
 
+.col-1{
+	text-align: left;
+}
